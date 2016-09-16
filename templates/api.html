@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>contemPLATE</title>
+  <meta charset="utf-8">
+  <style type="text/css">
+  html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  }
+  #map {
+  height: 85%;
+  }
+  .controls {
+  margin-top: 10px;
+  border: 1px solid transparent;
+  border-radius: 2px 0 0 2px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  height: 32px;
+  outline: none;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+  }
+  #pac-input {
+  background-color: #fff;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 300;
+  margin-left: 12px;
+  padding: 0 11px 0 13px;
+  text-overflow: ellipsis;
+  width: 75%;
+  color: DimGray
+  }
+  #pac-input:focus {
+  border-color: #4d90fe;
+  }
+  .pac-container {
+  font-family: Roboto;
+  }
+  #type-selector {
+  color: #fff;
+  background-color: #4d90fe;
+  padding: 5px 11px 0px 11px;
+  }
+  #type-selector label {
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 300;
+  }
+  #target {
+  width: 345px;
+  }
+  .nicebtn{
+    margin-top: 2px;
+    margin-left: 1px;
+    width: 100%;
+  }
+  #loader {
+    width: 100%;
+    height: 20px;
+    margin: 0 auto; 
+    animation: colorchange 10s linear infinite;
+    padding: 3px;
+}
+
+@keyframes colorchange{
+    0%   {background-color: yellow;}
+    25%  {background-color: red;}
+    50%  {background-color: green;}
+    100% {background-color: blue;}
+}
+.main{
+  padding-left: 5px;
+}
+</style>
+</head>
+<body>
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+  <input id="pac-input" class="controls" type="text" placeholder="Search a restaurant" style="color: Dimgray">
+
+  <div id="map"></div>
+  <div id="loader"></div>
+
+  <script>
+  //from google maps api searchbox
+  function initMap() {
+  $('#loader').hide()
+  var map = new google.maps.Map(document.getElementById('map'), {
+  center: {lat: 40.72, lng: -74.0059},
+  zoom: 14,
+  mapTypeId: 'roadmap'
+  });
+  var input = document.getElementById('pac-input');
+  var searchBox = new google.maps.places.SearchBox(input);
+  map.controls[google.maps.ControlPosition.TOP_LEFT].push(input);
+  map.addListener('bounds_changed', function() {searchBox.setBounds(map.getBounds());});
+  var markers = [];
+  searchBox.addListener('places_changed', function() {var places = searchBox.getPlaces();
+  if (places.length == 0) {
+  return;
+  }
+  markers.forEach(function(marker) {
+  marker.setMap(null);
+  });
+  markers = [];
+  var bounds = new google.maps.LatLngBounds();
+  places.forEach(function(place) {
+  if (!place.geometry) {
+  console.log("Returned place contains no geometry");
+  return;
+  }
+  var icon = {
+  url: place.icon,
+  size: new google.maps.Size(71, 71),
+  origin: new google.maps.Point(0, 0),
+  anchor: new google.maps.Point(17, 34),
+  scaledSize: new google.maps.Size(25, 25)
+  };
+  var marker = new google.maps.Marker({
+  map: map,
+  icon: icon,
+  title: place.name,
+  position: place.geometry.location
+  });
+  google.maps.event.addListener(marker, 'click', function(){
+    $('#loader').show()
+    $("#main").empty()
+    $('#dropdown').empty()
+    $.getJSON("http://0df5a8a6.ngrok.io/api/restaurants?query="+place.name, function(result){console.log(result["0"].locu_id)
+         $.getJSON("http://0df5a8a6.ngrok.io/api/menus?locu_id="+result["0"].locu_id, function(result1){console.log(result1)
+            $('#dropdown').empty()
+            result1.forEach(function (i){
+                $('#dropdown').append('<option>' + i +'</option>');
+            });
+        });
+         localStorage.setItem("locu_id", result["0"].locu_id);
+         $('#loader').hide()
+    });
+  });
+  markers.push(marker);
+  if (place.geometry.viewport) {
+  bounds.union(place.geometry.viewport);
+  } else {
+  bounds.extend(place.geometry.location);
+  }
+  });
+  map.fitBounds(bounds);
+  });
+  }
+  </script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDd9gdGDHKh2zQfU1JArBrSo76n3n9vuCw&libraries=places&callback=initMap"
+  async defer></script>
+
+<select class="form-control" id='dropdown'>
+</select>
+<button type="submit" id='btnSubmit' class="btn btn-primary nicebtn">Submit</button>
+<br><br>
+
+<section id='data'>
+<div id='main'></div>
+</section>
+
+<script type="text/javascript">
+$("#btnSubmit").click(function(e) {
+  $('#loader').show()
+  $.getJSON("http://0df5a8a6.ngrok.io/api/details?locu_id="+localStorage.getItem("locu_id")+"&item_name="+ $('#dropdown').val(), function(data){
+
+$("#main").empty()
+
+for(var ingred in data){
+  $("#main").append('<div id="'+ingred+'" class=""><h2 style="text-align: center;">'+ingred+'</h2></div>');
+    for(var categ in data[ingred]){
+      let ingred_id = "#" + ingred
+      if(categ == 'food_aid'){
+         $(ingred_id).append('<table class="table table-striped" id="fa'+ingred+categ+'">'+'<h3 style="color: DimGray;">'+categ+'</h3>'+'</table>');
+      }else if(categ == 'food_supply'){
+        $(ingred_id).append('<table class="table table-striped" id="fs'+ingred+categ+'">'+'<h3 style="color: DimGray;">'+categ+'</h3>'+'</table>');
+      }else{
+      $(ingred_id).append('<table class="table table-striped" id="'+ingred+categ+'">'+'<h3 style=" color: DimGray;">'+categ+'</h3>'+'</table>');
+      }
+          data[ingred]['food_aid'].forEach(function(i) {
+            $('#fa'+ingred+categ).append('<tr>'+'<td>'+i['country']+'  '+'</td><td><img src="https://maps.googleapis.com/maps/api/staticmap?center='+i['country']+'&zoom=2&size=200x50&key=AIzaSyAa6u9q15FiFdAi9RDLHdKpKWuJh2-KZQM&marker=color:red%7Ccenter"></td><td>'+i['delivered-qty']+'</td></tr>')
+        })
+     for(var key2 in data[ingred]['food_supply']){
+      let exdata = data[ingred]['food_supply']
+      $('#fs'+ingred+categ).append('<tr>'+'<td style="width: 75%">'+key2+'</td><td>'+exdata[key2]+'</td></tr>')
+     }
+     data[ingred]['usda'].forEach(function(i) {
+            $('#'+ingred+categ).append('<tr>'+'<td style="width: 75%">'+i['name']+'</td><td>'+i['value']+'</td></tr>')
+        })
+    }
+
+    $('#loader').hide()
+
+    //scroll to data
+     $('html, body').animate({
+        scrollTop: $("#data").offset().top
+    }, 500);
+
+
+    //add preappend to label the tables
+
+}
+
+  });
+});
+
+
+</script>
+
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+</body>
+</html>

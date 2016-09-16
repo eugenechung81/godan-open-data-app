@@ -1,0 +1,1625 @@
+Item,Element,Y2011
+Wheat and products,Production,695301
+Wheat and products,Import Quantity,178026
+Wheat and products,Stock Variation,-15419
+Wheat and products,Export Quantity,182899
+Wheat and products,Domestic supply quantity,675010
+Wheat and products,Feed,140953
+Wheat and products,Seed,33007
+Wheat and products,Waste,26450
+Wheat and products,Processing,6743
+Wheat and products,Other uses,21078
+Wheat and products,Food,446886
+Wheat and products,Food supply quantity (kg/capita/yr),65.26
+Wheat and products,Food supply (kcal/capita/day),524
+Wheat and products,Protein supply quantity (g/capita/day),15.83
+Wheat and products,Fat supply quantity (g/capita/day),2.41
+Rice (Milled Equivalent),Production,482313
+Rice (Milled Equivalent),Import Quantity,33658
+Rice (Milled Equivalent),Stock Variation,-11785
+Rice (Milled Equivalent),Export Quantity,38549
+Rice (Milled Equivalent),Domestic supply quantity,465636
+Rice (Milled Equivalent),Feed,33027
+Rice (Milled Equivalent),Seed,11977
+Rice (Milled Equivalent),Waste,28055
+Rice (Milled Equivalent),Processing,6211
+Rice (Milled Equivalent),Other uses,16132
+Rice (Milled Equivalent),Food,370313
+Rice (Milled Equivalent),Food supply quantity (kg/capita/yr),54.08
+Rice (Milled Equivalent),Food supply (kcal/capita/day),545
+Rice (Milled Equivalent),Protein supply quantity (g/capita/day),10.25
+Rice (Milled Equivalent),Fat supply quantity (g/capita/day),1.51
+Barley and products,Production,132130
+Barley and products,Import Quantity,33083
+Barley and products,Stock Variation,3971
+Barley and products,Export Quantity,35089
+Barley and products,Domestic supply quantity,134095
+Barley and products,Feed,88162
+Barley and products,Seed,8483
+Barley and products,Waste,4211
+Barley and products,Processing,25878
+Barley and products,Other uses,621
+Barley and products,Food,6745
+Barley and products,Food supply quantity (kg/capita/yr),0.98
+Barley and products,Food supply (kcal/capita/day),7
+Barley and products,Protein supply quantity (g/capita/day),0.2
+Barley and products,Fat supply quantity (g/capita/day),0.03
+Maize and products,Production,886013
+Maize and products,Import Quantity,111129
+Maize and products,Stock Variation,-5277
+Maize and products,Export Quantity,114696
+Maize and products,Domestic supply quantity,877169
+Maize and products,Feed,485085
+Maize and products,Seed,6361
+Maize and products,Waste,34981
+Maize and products,Processing,44877
+Maize and products,Other uses,185397
+Maize and products,Food,120470
+Maize and products,Food supply quantity (kg/capita/yr),17.59
+Maize and products,Food supply (kcal/capita/day),145
+Maize and products,Protein supply quantity (g/capita/day),3.51
+Maize and products,Fat supply quantity (g/capita/day),1.24
+Rye and products,Production,13029
+Rye and products,Import Quantity,1500
+Rye and products,Stock Variation,312
+Rye and products,Export Quantity,1553
+Rye and products,Domestic supply quantity,13288
+Rye and products,Feed,4844
+Rye and products,Seed,1276
+Rye and products,Waste,493
+Rye and products,Processing,947
+Rye and products,Other uses,25
+Rye and products,Food,5704
+Rye and products,Food supply quantity (kg/capita/yr),0.83
+Rye and products,Food supply (kcal/capita/day),6
+Rye and products,Protein supply quantity (g/capita/day),0.17
+Rye and products,Fat supply quantity (g/capita/day),0.03
+Oats,Production,22316
+Oats,Import Quantity,3963
+Oats,Stock Variation,333
+Oats,Export Quantity,3824
+Oats,Domestic supply quantity,22788
+Oats,Feed,15463
+Oats,Seed,2628
+Oats,Waste,631
+Oats,Processing,7
+Oats,Other uses,22
+Oats,Food,4041
+Oats,Food supply quantity (kg/capita/yr),0.59
+Oats,Food supply (kcal/capita/day),3
+Oats,Protein supply quantity (g/capita/day),0.13
+Oats,Fat supply quantity (g/capita/day),0.06
+Millet and products,Production,27212
+Millet and products,Import Quantity,348
+Millet and products,Stock Variation,3234
+Millet and products,Export Quantity,385
+Millet and products,Domestic supply quantity,30409
+Millet and products,Feed,3933
+Millet and products,Seed,704
+Millet and products,Waste,2131
+Millet and products,Processing,416
+Millet and products,Other uses,285
+Millet and products,Food,22940
+Millet and products,Food supply quantity (kg/capita/yr),3.35
+Millet and products,Food supply (kcal/capita/day),27
+Millet and products,Protein supply quantity (g/capita/day),0.73
+Millet and products,Fat supply quantity (g/capita/day),0.28
+Sorghum and products,Production,58155
+Sorghum and products,Import Quantity,6736
+Sorghum and products,Stock Variation,2671
+Sorghum and products,Export Quantity,5694
+Sorghum and products,Domestic supply quantity,61867
+Sorghum and products,Feed,26417
+Sorghum and products,Seed,771
+Sorghum and products,Waste,3308
+Sorghum and products,Processing,4127
+Sorghum and products,Other uses,2018
+Sorghum and products,Food,25228
+Sorghum and products,Food supply quantity (kg/capita/yr),3.68
+Sorghum and products,Food supply (kcal/capita/day),31
+Sorghum and products,Protein supply quantity (g/capita/day),0.91
+Sorghum and products,Fat supply quantity (g/capita/day),0.31
+"Cereals, Other",Production,25505
+"Cereals, Other",Import Quantity,3315
+"Cereals, Other",Stock Variation,83
+"Cereals, Other",Export Quantity,2041
+"Cereals, Other",Domestic supply quantity,26862
+"Cereals, Other",Feed,18230
+"Cereals, Other",Seed,1235
+"Cereals, Other",Waste,809
+"Cereals, Other",Processing,238
+"Cereals, Other",Other uses,1347
+"Cereals, Other",Food,5449
+"Cereals, Other",Food supply quantity (kg/capita/yr),0.8
+"Cereals, Other",Food supply (kcal/capita/day),7
+"Cereals, Other",Protein supply quantity (g/capita/day),0.18
+"Cereals, Other",Fat supply quantity (g/capita/day),0.02
+Cassava and products,Production,245592
+Cassava and products,Import Quantity,28203
+Cassava and products,Stock Variation,-5729
+Cassava and products,Export Quantity,27053
+Cassava and products,Domestic supply quantity,241013
+Cassava and products,Feed,77564
+Cassava and products,Seed,0
+Cassava and products,Waste,28432
+Cassava and products,Processing,1676
+Cassava and products,Other uses,32627
+Cassava and products,Food,100708
+Cassava and products,Food supply quantity (kg/capita/yr),14.71
+Cassava and products,Food supply (kcal/capita/day),38
+Cassava and products,Protein supply quantity (g/capita/day),0.25
+Cassava and products,Fat supply quantity (g/capita/day),0.07
+Potatoes and products,Production,373221
+Potatoes and products,Import Quantity,29267
+Potatoes and products,Stock Variation,1125
+Potatoes and products,Export Quantity,28362
+Potatoes and products,Domestic supply quantity,375251
+Potatoes and products,Feed,49679
+Potatoes and products,Seed,32751
+Potatoes and products,Waste,33952
+Potatoes and products,Processing,13048
+Potatoes and products,Other uses,8742
+Potatoes and products,Food,237200
+Potatoes and products,Food supply quantity (kg/capita/yr),34.64
+Potatoes and products,Food supply (kcal/capita/day),64
+Potatoes and products,Protein supply quantity (g/capita/day),1.52
+Potatoes and products,Fat supply quantity (g/capita/day),0.1
+Sweet potatoes,Production,103371
+Sweet potatoes,Import Quantity,281
+Sweet potatoes,Stock Variation,-1300
+Sweet potatoes,Export Quantity,424
+Sweet potatoes,Domestic supply quantity,101928
+Sweet potatoes,Feed,39899
+Sweet potatoes,Seed,528
+Sweet potatoes,Waste,6847
+Sweet potatoes,Processing,38
+Sweet potatoes,Other uses,36
+Sweet potatoes,Food,54581
+Sweet potatoes,Food supply quantity (kg/capita/yr),7.97
+Sweet potatoes,Food supply (kcal/capita/day),21
+Sweet potatoes,Protein supply quantity (g/capita/day),0.23
+Sweet potatoes,Fat supply quantity (g/capita/day),0.06
+Yams,Production,56672
+Yams,Import Quantity,59
+Yams,Stock Variation,60
+Yams,Export Quantity,42
+Yams,Domestic supply quantity,56750
+Yams,Feed,8249
+Yams,Seed,2113
+Yams,Waste,6117
+Yams,Other uses,11181
+Yams,Food,29090
+Yams,Food supply quantity (kg/capita/yr),4.25
+Yams,Food supply (kcal/capita/day),12
+Yams,Protein supply quantity (g/capita/day),0.19
+Yams,Fat supply quantity (g/capita/day),0.02
+"Roots, Other",Production,17835
+"Roots, Other",Import Quantity,635
+"Roots, Other",Stock Variation,-12
+"Roots, Other",Export Quantity,355
+"Roots, Other",Domestic supply quantity,18103
+"Roots, Other",Feed,748
+"Roots, Other",Seed,127
+"Roots, Other",Waste,3089
+"Roots, Other",Processing,0
+"Roots, Other",Other uses,1002
+"Roots, Other",Food,13180
+"Roots, Other",Food supply quantity (kg/capita/yr),1.92
+"Roots, Other",Food supply (kcal/capita/day),6
+"Roots, Other",Protein supply quantity (g/capita/day),0.08
+"Roots, Other",Fat supply quantity (g/capita/day),0.01
+Sugar cane,Production,1807440
+Sugar cane,Import Quantity,48
+Sugar cane,Stock Variation,4148
+Sugar cane,Export Quantity,21
+Sugar cane,Domestic supply quantity,1811614
+Sugar cane,Feed,34004
+Sugar cane,Seed,28252
+Sugar cane,Waste,147446
+Sugar cane,Processing,1271216
+Sugar cane,Other uses,299429
+Sugar cane,Food,31268
+Sugar cane,Food supply quantity (kg/capita/yr),4.57
+Sugar cane,Food supply (kcal/capita/day),4
+Sugar cane,Protein supply quantity (g/capita/day),0.02
+Sugar cane,Fat supply quantity (g/capita/day),0.02
+Sugar beet,Production,276276
+Sugar beet,Import Quantity,1058
+Sugar beet,Stock Variation,-4368
+Sugar beet,Export Quantity,1360
+Sugar beet,Domestic supply quantity,271606
+Sugar beet,Feed,16925
+Sugar beet,Waste,606
+Sugar beet,Processing,247134
+Sugar beet,Other uses,6932
+Sugar beet,Food,42
+Sugar beet,Food supply quantity (kg/capita/yr),0.01
+Sugar beet,Food supply (kcal/capita/day),0
+Sugar beet,Protein supply quantity (g/capita/day),0
+Sugar beet,Fat supply quantity (g/capita/day),0
+Sugar non-centrifugal,Production,8616
+Sugar non-centrifugal,Import Quantity,18
+Sugar non-centrifugal,Stock Variation,10
+Sugar non-centrifugal,Export Quantity,14
+Sugar non-centrifugal,Domestic supply quantity,8630
+Sugar non-centrifugal,Feed,315
+Sugar non-centrifugal,Waste,25
+Sugar non-centrifugal,Processing,76
+Sugar non-centrifugal,Other uses,2200
+Sugar non-centrifugal,Food,6013
+Sugar non-centrifugal,Food supply quantity (kg/capita/yr),0.88
+Sugar non-centrifugal,Food supply (kcal/capita/day),8
+Sugar non-centrifugal,Protein supply quantity (g/capita/day),0.02
+Sugar non-centrifugal,Fat supply quantity (g/capita/day),0
+Sugar (Raw Equivalent),Production,170140
+Sugar (Raw Equivalent),Import Quantity,58117
+Sugar (Raw Equivalent),Stock Variation,-8577
+Sugar (Raw Equivalent),Export Quantity,62271
+Sugar (Raw Equivalent),Domestic supply quantity,157410
+Sugar (Raw Equivalent),Feed,78
+Sugar (Raw Equivalent),Waste,234
+Sugar (Raw Equivalent),Processing,6302
+Sugar (Raw Equivalent),Other uses,12905
+Sugar (Raw Equivalent),Food,137891
+Sugar (Raw Equivalent),Food supply quantity (kg/capita/yr),20.14
+Sugar (Raw Equivalent),Food supply (kcal/capita/day),196
+"Sweeteners, Other",Production,24200
+"Sweeteners, Other",Import Quantity,12309
+"Sweeteners, Other",Stock Variation,250
+"Sweeteners, Other",Export Quantity,10579
+"Sweeteners, Other",Domestic supply quantity,26180
+"Sweeteners, Other",Feed,36
+"Sweeteners, Other",Seed,0
+"Sweeteners, Other",Waste,0
+"Sweeteners, Other",Processing,951
+"Sweeteners, Other",Other uses,5689
+"Sweeteners, Other",Food,19684
+"Sweeteners, Other",Food supply quantity (kg/capita/yr),2.87
+"Sweeteners, Other",Food supply (kcal/capita/day),23
+"Sweeteners, Other",Protein supply quantity (g/capita/day),0.01
+"Sweeteners, Other",Fat supply quantity (g/capita/day),0
+Honey,Production,1569
+Honey,Import Quantity,494
+Honey,Stock Variation,-6
+Honey,Export Quantity,477
+Honey,Domestic supply quantity,1580
+Honey,Feed,0
+Honey,Processing,19
+Honey,Other uses,0
+Honey,Food,1561
+Honey,Food supply quantity (kg/capita/yr),0.23
+Honey,Food supply (kcal/capita/day),2
+Honey,Protein supply quantity (g/capita/day),0
+Beans,Production,22496
+Beans,Import Quantity,3335
+Beans,Stock Variation,517
+Beans,Export Quantity,4406
+Beans,Domestic supply quantity,21942
+Beans,Feed,2452
+Beans,Seed,1198
+Beans,Waste,1246
+Beans,Other uses,75
+Beans,Food,16997
+Beans,Food supply quantity (kg/capita/yr),2.48
+Beans,Food supply (kcal/capita/day),23
+Beans,Protein supply quantity (g/capita/day),1.47
+Beans,Fat supply quantity (g/capita/day),0.1
+Peas,Production,9909
+Peas,Import Quantity,4318
+Peas,Stock Variation,942
+Peas,Export Quantity,4841
+Peas,Domestic supply quantity,10328
+Peas,Feed,3330
+Peas,Seed,841
+Peas,Waste,480
+Peas,Processing,0
+Peas,Other uses,55
+Peas,Food,5622
+Peas,Food supply quantity (kg/capita/yr),0.82
+Peas,Food supply (kcal/capita/day),8
+Peas,Protein supply quantity (g/capita/day),0.5
+Peas,Fat supply quantity (g/capita/day),0.03
+"Pulses, Other and products",Production,35705
+"Pulses, Other and products",Import Quantity,4454
+"Pulses, Other and products",Stock Variation,11
+"Pulses, Other and products",Export Quantity,4235
+"Pulses, Other and products",Domestic supply quantity,35936
+"Pulses, Other and products",Feed,7149
+"Pulses, Other and products",Seed,1939
+"Pulses, Other and products",Waste,1749
+"Pulses, Other and products",Processing,0
+"Pulses, Other and products",Other uses,579
+"Pulses, Other and products",Food,24543
+"Pulses, Other and products",Food supply quantity (kg/capita/yr),3.58
+"Pulses, Other and products",Food supply (kcal/capita/day),34
+"Pulses, Other and products",Protein supply quantity (g/capita/day),2.09
+"Pulses, Other and products",Fat supply quantity (g/capita/day),0.29
+Nuts and products,Production,15323
+Nuts and products,Import Quantity,6921
+Nuts and products,Stock Variation,182
+Nuts and products,Export Quantity,7230
+Nuts and products,Domestic supply quantity,15197
+Nuts and products,Seed,0
+Nuts and products,Waste,458
+Nuts and products,Processing,0
+Nuts and products,Other uses,67
+Nuts and products,Food,15068
+Nuts and products,Food supply quantity (kg/capita/yr),2.2
+Nuts and products,Food supply (kcal/capita/day),15
+Nuts and products,Protein supply quantity (g/capita/day),0.39
+Nuts and products,Fat supply quantity (g/capita/day),1.14
+Soyabeans,Production,261901
+Soyabeans,Import Quantity,91137
+Soyabeans,Stock Variation,-2092
+Soyabeans,Export Quantity,92003
+Soyabeans,Domestic supply quantity,258943
+Soyabeans,Feed,13320
+Soyabeans,Seed,6729
+Soyabeans,Waste,4027
+Soyabeans,Processing,224105
+Soyabeans,Other uses,663
+Soyabeans,Food,10107
+Soyabeans,Food supply quantity (kg/capita/yr),1.48
+Soyabeans,Food supply (kcal/capita/day),14
+Soyabeans,Protein supply quantity (g/capita/day),1.31
+Soyabeans,Fat supply quantity (g/capita/day),0.5
+Groundnuts (Shelled Eq),Production,28098
+Groundnuts (Shelled Eq),Import Quantity,2392
+Groundnuts (Shelled Eq),Stock Variation,375
+Groundnuts (Shelled Eq),Export Quantity,2708
+Groundnuts (Shelled Eq),Domestic supply quantity,28157
+Groundnuts (Shelled Eq),Feed,3
+Groundnuts (Shelled Eq),Seed,1238
+Groundnuts (Shelled Eq),Waste,1380
+Groundnuts (Shelled Eq),Processing,14251
+Groundnuts (Shelled Eq),Other uses,886
+Groundnuts (Shelled Eq),Food,10705
+Groundnuts (Shelled Eq),Food supply quantity (kg/capita/yr),1.56
+Groundnuts (Shelled Eq),Food supply (kcal/capita/day),23
+Groundnuts (Shelled Eq),Protein supply quantity (g/capita/day),1
+Groundnuts (Shelled Eq),Fat supply quantity (g/capita/day),1.91
+Sunflower seed,Production,40777
+Sunflower seed,Import Quantity,4639
+Sunflower seed,Stock Variation,-3742
+Sunflower seed,Export Quantity,4757
+Sunflower seed,Domestic supply quantity,36918
+Sunflower seed,Feed,2659
+Sunflower seed,Seed,725
+Sunflower seed,Waste,999
+Sunflower seed,Processing,31706
+Sunflower seed,Other uses,116
+Sunflower seed,Food,713
+Sunflower seed,Food supply quantity (kg/capita/yr),0.1
+Sunflower seed,Food supply (kcal/capita/day),1
+Sunflower seed,Protein supply quantity (g/capita/day),0.03
+Sunflower seed,Fat supply quantity (g/capita/day),0.07
+Rape and Mustardseed,Production,63316
+Rape and Mustardseed,Import Quantity,18492
+Rape and Mustardseed,Stock Variation,955
+Rape and Mustardseed,Export Quantity,17576
+Rape and Mustardseed,Domestic supply quantity,65186
+Rape and Mustardseed,Feed,4366
+Rape and Mustardseed,Seed,625
+Rape and Mustardseed,Waste,1718
+Rape and Mustardseed,Processing,57265
+Rape and Mustardseed,Other uses,315
+Rape and Mustardseed,Food,931
+Rape and Mustardseed,Food supply quantity (kg/capita/yr),0
+Rape and Mustardseed,Food supply (kcal/capita/day),2
+Rape and Mustardseed,Protein supply quantity (g/capita/day),0
+Rape and Mustardseed,Fat supply quantity (g/capita/day),0
+Cottonseed,Production,48366
+Cottonseed,Import Quantity,1125
+Cottonseed,Stock Variation,-186
+Cottonseed,Export Quantity,1156
+Cottonseed,Domestic supply quantity,48149
+Cottonseed,Feed,12193
+Cottonseed,Seed,1325
+Cottonseed,Waste,1228
+Cottonseed,Processing,31099
+Cottonseed,Other uses,2304
+Cottonseed,Food,0
+Cottonseed,Food supply quantity (kg/capita/yr),0
+Cottonseed,Food supply (kcal/capita/day),0
+Cottonseed,Protein supply quantity (g/capita/day),0
+Cottonseed,Fat supply quantity (g/capita/day),0
+Coconuts - Incl Copra,Production,57233
+Coconuts - Incl Copra,Import Quantity,2743
+Coconuts - Incl Copra,Stock Variation,-2451
+Coconuts - Incl Copra,Export Quantity,2830
+Coconuts - Incl Copra,Domestic supply quantity,54696
+Coconuts - Incl Copra,Feed,46
+Coconuts - Incl Copra,Seed,152
+Coconuts - Incl Copra,Waste,2745
+Coconuts - Incl Copra,Processing,23447
+Coconuts - Incl Copra,Other uses,7864
+Coconuts - Incl Copra,Food,20485
+Coconuts - Incl Copra,Food supply quantity (kg/capita/yr),2.99
+Coconuts - Incl Copra,Food supply (kcal/capita/day),11
+Coconuts - Incl Copra,Protein supply quantity (g/capita/day),0.12
+Coconuts - Incl Copra,Fat supply quantity (g/capita/day),1.01
+Sesame seed,Production,4651
+Sesame seed,Import Quantity,1386
+Sesame seed,Stock Variation,-355
+Sesame seed,Export Quantity,1368
+Sesame seed,Domestic supply quantity,4314
+Sesame seed,Feed,4
+Sesame seed,Seed,62
+Sesame seed,Waste,174
+Sesame seed,Processing,2544
+Sesame seed,Other uses,75
+Sesame seed,Food,1464
+Sesame seed,Food supply quantity (kg/capita/yr),0.21
+Sesame seed,Food supply (kcal/capita/day),3
+Sesame seed,Protein supply quantity (g/capita/day),0.1
+Sesame seed,Fat supply quantity (g/capita/day),0.3
+Palm kernels,Production,13357
+Palm kernels,Import Quantity,17
+Palm kernels,Stock Variation,9
+Palm kernels,Export Quantity,17
+Palm kernels,Domestic supply quantity,13366
+Palm kernels,Feed,0
+Palm kernels,Waste,8
+Palm kernels,Processing,13249
+Palm kernels,Other uses,103
+Palm kernels,Food,6
+Palm kernels,Food supply quantity (kg/capita/yr),0
+Palm kernels,Food supply (kcal/capita/day),0
+Palm kernels,Protein supply quantity (g/capita/day),0
+Palm kernels,Fat supply quantity (g/capita/day),0
+Olives (including preserved),Production,19108
+Olives (including preserved),Import Quantity,1002
+Olives (including preserved),Stock Variation,-230
+Olives (including preserved),Export Quantity,980
+Olives (including preserved),Domestic supply quantity,18899
+Olives (including preserved),Waste,290
+Olives (including preserved),Processing,15974
+Olives (including preserved),Other uses,9
+Olives (including preserved),Food,2628
+Olives (including preserved),Food supply quantity (kg/capita/yr),0.38
+Olives (including preserved),Food supply (kcal/capita/day),1
+Olives (including preserved),Protein supply quantity (g/capita/day),0.01
+Olives (including preserved),Fat supply quantity (g/capita/day),0.15
+"Oilcrops, Other",Production,12341
+"Oilcrops, Other",Import Quantity,3536
+"Oilcrops, Other",Stock Variation,-957
+"Oilcrops, Other",Export Quantity,4209
+"Oilcrops, Other",Domestic supply quantity,10710
+"Oilcrops, Other",Feed,2071
+"Oilcrops, Other",Seed,224
+"Oilcrops, Other",Waste,403
+"Oilcrops, Other",Processing,8217
+"Oilcrops, Other",Other uses,1132
+"Oilcrops, Other",Food,964
+"Oilcrops, Other",Food supply quantity (kg/capita/yr),0.14
+"Oilcrops, Other",Food supply (kcal/capita/day),1
+"Oilcrops, Other",Protein supply quantity (g/capita/day),0.08
+"Oilcrops, Other",Fat supply quantity (g/capita/day),0.09
+Soyabean Oil,Production,41831
+Soyabean Oil,Import Quantity,10532
+Soyabean Oil,Stock Variation,-261
+Soyabean Oil,Export Quantity,10559
+Soyabean Oil,Domestic supply quantity,41544
+Soyabean Oil,Feed,22
+Soyabean Oil,Waste,211
+Soyabean Oil,Processing,12
+Soyabean Oil,Other uses,16651
+Soyabean Oil,Food,24648
+Soyabean Oil,Food supply quantity (kg/capita/yr),3.6
+Soyabean Oil,Food supply (kcal/capita/day),85
+Soyabean Oil,Protein supply quantity (g/capita/day),0.01
+Soyabean Oil,Fat supply quantity (g/capita/day),9.65
+Groundnut Oil,Production,5374
+Groundnut Oil,Import Quantity,257
+Groundnut Oil,Stock Variation,-3
+Groundnut Oil,Export Quantity,241
+Groundnut Oil,Domestic supply quantity,5387
+Groundnut Oil,Feed,
+Groundnut Oil,Waste,2
+Groundnut Oil,Processing,0
+Groundnut Oil,Other uses,1193
+Groundnut Oil,Food,4191
+Groundnut Oil,Food supply quantity (kg/capita/yr),0.61
+Groundnut Oil,Food supply (kcal/capita/day),15
+Groundnut Oil,Protein supply quantity (g/capita/day),0
+Groundnut Oil,Fat supply quantity (g/capita/day),1.67
+Sunflowerseed Oil,Production,13360
+Sunflowerseed Oil,Import Quantity,6983
+Sunflowerseed Oil,Stock Variation,-396
+Sunflowerseed Oil,Export Quantity,7688
+Sunflowerseed Oil,Domestic supply quantity,12259
+Sunflowerseed Oil,Feed,
+Sunflowerseed Oil,Waste,8
+Sunflowerseed Oil,Processing,10
+Sunflowerseed Oil,Other uses,2788
+Sunflowerseed Oil,Food,9453
+Sunflowerseed Oil,Food supply quantity (kg/capita/yr),1.38
+Sunflowerseed Oil,Food supply (kcal/capita/day),33
+Sunflowerseed Oil,Protein supply quantity (g/capita/day),0
+Sunflowerseed Oil,Fat supply quantity (g/capita/day),3.77
+Rape and Mustard Oil,Production,23264
+Rape and Mustard Oil,Import Quantity,6682
+Rape and Mustard Oil,Stock Variation,-126
+Rape and Mustard Oil,Export Quantity,6844
+Rape and Mustard Oil,Domestic supply quantity,22976
+Rape and Mustard Oil,Feed,750
+Rape and Mustard Oil,Waste,4
+Rape and Mustard Oil,Processing,11
+Rape and Mustard Oil,Other uses,12008
+Rape and Mustard Oil,Food,10238
+Rape and Mustard Oil,Food supply quantity (kg/capita/yr),1.5
+Rape and Mustard Oil,Food supply (kcal/capita/day),36
+Rape and Mustard Oil,Protein supply quantity (g/capita/day),0
+Rape and Mustard Oil,Fat supply quantity (g/capita/day),4.05
+Cottonseed Oil,Production,5146
+Cottonseed Oil,Import Quantity,200
+Cottonseed Oil,Stock Variation,-30
+Cottonseed Oil,Export Quantity,214
+Cottonseed Oil,Domestic supply quantity,5101
+Cottonseed Oil,Feed,
+Cottonseed Oil,Waste,6
+Cottonseed Oil,Processing,0
+Cottonseed Oil,Other uses,1227
+Cottonseed Oil,Food,3870
+Cottonseed Oil,Food supply quantity (kg/capita/yr),0.57
+Cottonseed Oil,Food supply (kcal/capita/day),14
+Cottonseed Oil,Protein supply quantity (g/capita/day),0
+Cottonseed Oil,Fat supply quantity (g/capita/day),1.53
+Palmkernel Oil,Production,5944
+Palmkernel Oil,Import Quantity,2972
+Palmkernel Oil,Stock Variation,-123
+Palmkernel Oil,Export Quantity,2699
+Palmkernel Oil,Domestic supply quantity,6094
+Palmkernel Oil,Feed,
+Palmkernel Oil,Waste,27
+Palmkernel Oil,Processing,10
+Palmkernel Oil,Other uses,4254
+Palmkernel Oil,Food,1826
+Palmkernel Oil,Food supply quantity (kg/capita/yr),0.27
+Palmkernel Oil,Food supply (kcal/capita/day),6
+Palmkernel Oil,Protein supply quantity (g/capita/day),0
+Palmkernel Oil,Fat supply quantity (g/capita/day),0.72
+Palm Oil,Production,48520
+Palm Oil,Import Quantity,40908
+Palm Oil,Stock Variation,-383
+Palm Oil,Export Quantity,45775
+Palm Oil,Domestic supply quantity,43271
+Palm Oil,Feed,0
+Palm Oil,Waste,295
+Palm Oil,Processing,26
+Palm Oil,Other uses,28979
+Palm Oil,Food,14613
+Palm Oil,Food supply quantity (kg/capita/yr),2.13
+Palm Oil,Food supply (kcal/capita/day),51
+Palm Oil,Protein supply quantity (g/capita/day),0.01
+Palm Oil,Fat supply quantity (g/capita/day),5.78
+Coconut Oil,Production,3111
+Coconut Oil,Import Quantity,2867
+Coconut Oil,Stock Variation,-47
+Coconut Oil,Export Quantity,2636
+Coconut Oil,Domestic supply quantity,3295
+Coconut Oil,Feed,
+Coconut Oil,Waste,1
+Coconut Oil,Processing,13
+Coconut Oil,Other uses,1358
+Coconut Oil,Food,2002
+Coconut Oil,Food supply quantity (kg/capita/yr),0.29
+Coconut Oil,Food supply (kcal/capita/day),7
+Coconut Oil,Protein supply quantity (g/capita/day),0
+Coconut Oil,Fat supply quantity (g/capita/day),0.79
+Sesameseed Oil,Production,1094
+Sesameseed Oil,Import Quantity,71
+Sesameseed Oil,Stock Variation,-2
+Sesameseed Oil,Export Quantity,73
+Sesameseed Oil,Domestic supply quantity,1090
+Sesameseed Oil,Feed,0
+Sesameseed Oil,Waste,0
+Sesameseed Oil,Processing,0
+Sesameseed Oil,Other uses,316
+Sesameseed Oil,Food,775
+Sesameseed Oil,Food supply quantity (kg/capita/yr),0.11
+Sesameseed Oil,Food supply (kcal/capita/day),3
+Sesameseed Oil,Protein supply quantity (g/capita/day),0
+Sesameseed Oil,Fat supply quantity (g/capita/day),0.31
+Olive Oil,Production,3354
+Olive Oil,Import Quantity,1863
+Olive Oil,Stock Variation,-37
+Olive Oil,Export Quantity,1758
+Olive Oil,Domestic supply quantity,3422
+Olive Oil,Feed,0
+Olive Oil,Other uses,266
+Olive Oil,Food,3162
+Olive Oil,Food supply quantity (kg/capita/yr),0.46
+Olive Oil,Food supply (kcal/capita/day),11
+Olive Oil,Protein supply quantity (g/capita/day),0
+Olive Oil,Fat supply quantity (g/capita/day),1.26
+Ricebran Oil,Production,1082
+Ricebran Oil,Import Quantity,37
+Ricebran Oil,Stock Variation,-42
+Ricebran Oil,Export Quantity,32
+Ricebran Oil,Domestic supply quantity,1045
+Ricebran Oil,Other uses,200
+Ricebran Oil,Food,845
+Ricebran Oil,Food supply quantity (kg/capita/yr),0.12
+Ricebran Oil,Food supply (kcal/capita/day),3
+Ricebran Oil,Protein supply quantity (g/capita/day),0
+Ricebran Oil,Fat supply quantity (g/capita/day),0.34
+Maize Germ Oil,Production,2331
+Maize Germ Oil,Import Quantity,792
+Maize Germ Oil,Stock Variation,30
+Maize Germ Oil,Export Quantity,952
+Maize Germ Oil,Domestic supply quantity,2200
+Maize Germ Oil,Waste,7
+Maize Germ Oil,Processing,0
+Maize Germ Oil,Other uses,33
+Maize Germ Oil,Food,2164
+Maize Germ Oil,Food supply quantity (kg/capita/yr),0.32
+Maize Germ Oil,Food supply (kcal/capita/day),8
+Maize Germ Oil,Protein supply quantity (g/capita/day),0
+Maize Germ Oil,Fat supply quantity (g/capita/day),0.86
+"Oilcrops Oil, Other",Production,4341
+"Oilcrops Oil, Other",Import Quantity,5596
+"Oilcrops Oil, Other",Stock Variation,-35
+"Oilcrops Oil, Other",Export Quantity,3481
+"Oilcrops Oil, Other",Domestic supply quantity,6421
+"Oilcrops Oil, Other",Feed,1
+"Oilcrops Oil, Other",Waste,6
+"Oilcrops Oil, Other",Processing,357
+"Oilcrops Oil, Other",Other uses,4818
+"Oilcrops Oil, Other",Food,1757
+"Oilcrops Oil, Other",Food supply quantity (kg/capita/yr),0.26
+"Oilcrops Oil, Other",Food supply (kcal/capita/day),6
+"Oilcrops Oil, Other",Protein supply quantity (g/capita/day),0
+"Oilcrops Oil, Other",Fat supply quantity (g/capita/day),0.68
+Tomatoes and products,Production,157040
+Tomatoes and products,Import Quantity,17413
+Tomatoes and products,Stock Variation,25
+Tomatoes and products,Export Quantity,21243
+Tomatoes and products,Domestic supply quantity,153236
+Tomatoes and products,Feed,1751
+Tomatoes and products,Waste,12941
+Tomatoes and products,Processing,0
+Tomatoes and products,Other uses,76
+Tomatoes and products,Food,138512
+Tomatoes and products,Food supply quantity (kg/capita/yr),20.23
+Tomatoes and products,Food supply (kcal/capita/day),10
+Tomatoes and products,Protein supply quantity (g/capita/day),0.53
+Tomatoes and products,Fat supply quantity (g/capita/day),0.13
+Onions,Production,84683
+Onions,Import Quantity,6417
+Onions,Stock Variation,0
+Onions,Export Quantity,7570
+Onions,Domestic supply quantity,83530
+Onions,Feed,82
+Onions,Seed,11
+Onions,Waste,6662
+Onions,Processing,-1
+Onions,Other uses,14
+Onions,Food,76763
+Onions,Food supply quantity (kg/capita/yr),11.21
+Onions,Food supply (kcal/capita/day),12
+Onions,Protein supply quantity (g/capita/day),0.42
+Onions,Fat supply quantity (g/capita/day),0.06
+"Vegetables, Other",Production,840546
+"Vegetables, Other",Import Quantity,41672
+"Vegetables, Other",Stock Variation,219
+"Vegetables, Other",Export Quantity,43319
+"Vegetables, Other",Domestic supply quantity,839117
+"Vegetables, Other",Feed,50768
+"Vegetables, Other",Seed,101
+"Vegetables, Other",Waste,72798
+"Vegetables, Other",Processing,605
+"Vegetables, Other",Other uses,446
+"Vegetables, Other",Food,714726
+"Vegetables, Other",Food supply quantity (kg/capita/yr),104.37
+"Vegetables, Other",Food supply (kcal/capita/day),71
+"Vegetables, Other",Protein supply quantity (g/capita/day),3.81
+"Vegetables, Other",Fat supply quantity (g/capita/day),0.6
+"Oranges, Mandarines",Production,97115
+"Oranges, Mandarines",Import Quantity,33387
+"Oranges, Mandarines",Stock Variation,934
+"Oranges, Mandarines",Export Quantity,32999
+"Oranges, Mandarines",Domestic supply quantity,98437
+"Oranges, Mandarines",Feed,10
+"Oranges, Mandarines",Waste,7091
+"Oranges, Mandarines",Processing,57
+"Oranges, Mandarines",Other uses,113
+"Oranges, Mandarines",Food,91279
+"Oranges, Mandarines",Food supply quantity (kg/capita/yr),13.33
+"Oranges, Mandarines",Food supply (kcal/capita/day),10
+"Oranges, Mandarines",Protein supply quantity (g/capita/day),0.18
+"Oranges, Mandarines",Fat supply quantity (g/capita/day),0.04
+"Lemons, Limes and products",Production,14460
+"Lemons, Limes and products",Import Quantity,4244
+"Lemons, Limes and products",Stock Variation,8
+"Lemons, Limes and products",Export Quantity,3950
+"Lemons, Limes and products",Domestic supply quantity,14762
+"Lemons, Limes and products",Waste,1374
+"Lemons, Limes and products",Processing,92
+"Lemons, Limes and products",Other uses,336
+"Lemons, Limes and products",Food,12962
+"Lemons, Limes and products",Food supply quantity (kg/capita/yr),1.89
+"Lemons, Limes and products",Food supply (kcal/capita/day),1
+"Lemons, Limes and products",Protein supply quantity (g/capita/day),0.02
+"Lemons, Limes and products",Fat supply quantity (g/capita/day),0.02
+Grapefruit and products,Production,7847
+Grapefruit and products,Import Quantity,2737
+Grapefruit and products,Stock Variation,52
+Grapefruit and products,Export Quantity,2437
+Grapefruit and products,Domestic supply quantity,8198
+Grapefruit and products,Feed,0
+Grapefruit and products,Waste,809
+Grapefruit and products,Processing,2
+Grapefruit and products,Other uses,5
+Grapefruit and products,Food,7403
+Grapefruit and products,Food supply quantity (kg/capita/yr),1.08
+Grapefruit and products,Food supply (kcal/capita/day),1
+Grapefruit and products,Protein supply quantity (g/capita/day),0.01
+Grapefruit and products,Fat supply quantity (g/capita/day),0
+"Citrus, Other",Production,10691
+"Citrus, Other",Import Quantity,653
+"Citrus, Other",Stock Variation,2
+"Citrus, Other",Export Quantity,568
+"Citrus, Other",Domestic supply quantity,10779
+"Citrus, Other",Waste,778
+"Citrus, Other",Processing,59
+"Citrus, Other",Other uses,21
+"Citrus, Other",Food,9980
+"Citrus, Other",Food supply quantity (kg/capita/yr),1.46
+"Citrus, Other",Food supply (kcal/capita/day),1
+"Citrus, Other",Protein supply quantity (g/capita/day),0.02
+"Citrus, Other",Fat supply quantity (g/capita/day),0.01
+Bananas,Production,102494
+Bananas,Import Quantity,18753
+Bananas,Stock Variation,522
+Bananas,Export Quantity,20129
+Bananas,Domestic supply quantity,101640
+Bananas,Feed,1541
+Bananas,Waste,15903
+Bananas,Processing,1589
+Bananas,Other uses,110
+Bananas,Food,82497
+Bananas,Food supply quantity (kg/capita/yr),12.05
+Bananas,Food supply (kcal/capita/day),20
+Bananas,Protein supply quantity (g/capita/day),0.27
+Bananas,Fat supply quantity (g/capita/day),0.06
+Plantains,Production,35928
+Plantains,Import Quantity,663
+Plantains,Stock Variation,0
+Plantains,Export Quantity,425
+Plantains,Domestic supply quantity,36167
+Plantains,Feed,2919
+Plantains,Waste,3981
+Plantains,Processing,4963
+Plantains,Other uses,240
+Plantains,Food,24065
+Plantains,Food supply quantity (kg/capita/yr),3.51
+Plantains,Food supply (kcal/capita/day),8
+Plantains,Protein supply quantity (g/capita/day),0.07
+Plantains,Fat supply quantity (g/capita/day),0.02
+Apples and products,Production,75779
+Apples and products,Import Quantity,19630
+Apples and products,Stock Variation,151
+Apples and products,Export Quantity,16825
+Apples and products,Domestic supply quantity,78736
+Apples and products,Feed,633
+Apples and products,Waste,8050
+Apples and products,Processing,5243
+Apples and products,Other uses,29
+Apples and products,Food,64357
+Apples and products,Food supply quantity (kg/capita/yr),9.4
+Apples and products,Food supply (kcal/capita/day),11
+Apples and products,Protein supply quantity (g/capita/day),0.06
+Apples and products,Fat supply quantity (g/capita/day),0.06
+Pineapples and products,Production,21700
+Pineapples and products,Import Quantity,6655
+Pineapples and products,Stock Variation,19
+Pineapples and products,Export Quantity,6924
+Pineapples and products,Domestic supply quantity,21450
+Pineapples and products,Waste,2113
+Pineapples and products,Processing,16
+Pineapples and products,Other uses,3
+Pineapples and products,Food,19618
+Pineapples and products,Food supply quantity (kg/capita/yr),2.86
+Pineapples and products,Food supply (kcal/capita/day),3
+Pineapples and products,Protein supply quantity (g/capita/day),0.02
+Pineapples and products,Fat supply quantity (g/capita/day),0.01
+Dates,Production,7004
+Dates,Import Quantity,740
+Dates,Stock Variation,5
+Dates,Export Quantity,721
+Dates,Domestic supply quantity,7028
+Dates,Feed,281
+Dates,Waste,554
+Dates,Processing,0
+Dates,Other uses,36
+Dates,Food,6157
+Dates,Food supply quantity (kg/capita/yr),0.9
+Dates,Food supply (kcal/capita/day),4
+Dates,Protein supply quantity (g/capita/day),0.04
+Dates,Fat supply quantity (g/capita/day),0.01
+Grapes and products (excl wine),Production,69533
+Grapes and products (excl wine),Import Quantity,8615
+Grapes and products (excl wine),Stock Variation,28
+Grapes and products (excl wine),Export Quantity,8940
+Grapes and products (excl wine),Domestic supply quantity,69236
+Grapes and products (excl wine),Feed,0
+Grapes and products (excl wine),Waste,2491
+Grapes and products (excl wine),Processing,39847
+Grapes and products (excl wine),Other uses,832
+Grapes and products (excl wine),Food,26141
+Grapes and products (excl wine),Food supply quantity (kg/capita/yr),3.82
+Grapes and products (excl wine),Food supply (kcal/capita/day),6
+Grapes and products (excl wine),Protein supply quantity (g/capita/day),0.06
+Grapes and products (excl wine),Fat supply quantity (g/capita/day),0.03
+"Fruits, Other",Production,189239
+"Fruits, Other",Import Quantity,27139
+"Fruits, Other",Stock Variation,113
+"Fruits, Other",Export Quantity,27372
+"Fruits, Other",Domestic supply quantity,189120
+"Fruits, Other",Feed,111
+"Fruits, Other",Waste,16964
+"Fruits, Other",Processing,3377
+"Fruits, Other",Other uses,157
+"Fruits, Other",Food,169326
+"Fruits, Other",Food supply quantity (kg/capita/yr),24.73
+"Fruits, Other",Food supply (kcal/capita/day),29
+"Fruits, Other",Protein supply quantity (g/capita/day),0.35
+"Fruits, Other",Fat supply quantity (g/capita/day),0.34
+Coffee and products,Production,8300
+Coffee and products,Import Quantity,9569
+Coffee and products,Stock Variation,320
+Coffee and products,Export Quantity,10111
+Coffee and products,Domestic supply quantity,8077
+Coffee and products,Waste,126
+Coffee and products,Processing,0
+Coffee and products,Other uses,43
+Coffee and products,Food,7961
+Coffee and products,Food supply quantity (kg/capita/yr),1.16
+Coffee and products,Food supply (kcal/capita/day),1
+Coffee and products,Protein supply quantity (g/capita/day),0.18
+Cocoa Beans and products,Production,4574
+Cocoa Beans and products,Import Quantity,8474
+Cocoa Beans and products,Stock Variation,257
+Cocoa Beans and products,Export Quantity,8294
+Cocoa Beans and products,Domestic supply quantity,5011
+Cocoa Beans and products,Feed,12
+Cocoa Beans and products,Waste,108
+Cocoa Beans and products,Processing,45
+Cocoa Beans and products,Other uses,328
+Cocoa Beans and products,Food,4536
+Cocoa Beans and products,Food supply quantity (kg/capita/yr),0.66
+Cocoa Beans and products,Food supply (kcal/capita/day),5
+Cocoa Beans and products,Protein supply quantity (g/capita/day),0.13
+Cocoa Beans and products,Fat supply quantity (g/capita/day),0.43
+Tea (including mate),Production,5538
+Tea (including mate),Import Quantity,2110
+Tea (including mate),Stock Variation,-16
+Tea (including mate),Export Quantity,2242
+Tea (including mate),Domestic supply quantity,5390
+Tea (including mate),Feed,0
+Tea (including mate),Waste,101
+Tea (including mate),Other uses,20
+Tea (including mate),Food,5371
+Tea (including mate),Food supply quantity (kg/capita/yr),0.78
+Tea (including mate),Food supply (kcal/capita/day),1
+Tea (including mate),Protein supply quantity (g/capita/day),0.21
+Pepper,Production,450
+Pepper,Import Quantity,301
+Pepper,Stock Variation,0
+Pepper,Export Quantity,321
+Pepper,Domestic supply quantity,430
+Pepper,Waste,8
+Pepper,Other uses,1
+Pepper,Food,421
+Pepper,Food supply quantity (kg/capita/yr),0.06
+Pepper,Food supply (kcal/capita/day),0
+Pepper,Protein supply quantity (g/capita/day),0.02
+Pepper,Fat supply quantity (g/capita/day),0
+Pimento,Production,3280
+Pimento,Import Quantity,535
+Pimento,Stock Variation,-12
+Pimento,Export Quantity,536
+Pimento,Domestic supply quantity,3268
+Pimento,Waste,132
+Pimento,Other uses,85
+Pimento,Food,3056
+Pimento,Food supply quantity (kg/capita/yr),0.45
+Pimento,Food supply (kcal/capita/day),4
+Pimento,Protein supply quantity (g/capita/day),0.15
+Pimento,Fat supply quantity (g/capita/day),0.16
+Cloves,Production,108
+Cloves,Import Quantity,48
+Cloves,Stock Variation,1
+Cloves,Export Quantity,45
+Cloves,Domestic supply quantity,113
+Cloves,Feed,0
+Cloves,Waste,5
+Cloves,Other uses,73
+Cloves,Food,40
+Cloves,Food supply quantity (kg/capita/yr),0.01
+Cloves,Food supply (kcal/capita/day),0
+Cloves,Protein supply quantity (g/capita/day),0
+Cloves,Fat supply quantity (g/capita/day),0
+"Spices, Other",Production,5484
+"Spices, Other",Import Quantity,1395
+"Spices, Other",Stock Variation,-14
+"Spices, Other",Export Quantity,1409
+"Spices, Other",Domestic supply quantity,5456
+"Spices, Other",Waste,89
+"Spices, Other",Other uses,168
+"Spices, Other",Food,5224
+"Spices, Other",Food supply quantity (kg/capita/yr),0.76
+"Spices, Other",Food supply (kcal/capita/day),7
+"Spices, Other",Protein supply quantity (g/capita/day),0.23
+"Spices, Other",Fat supply quantity (g/capita/day),0.19
+Wine,Production,28379
+Wine,Import Quantity,10231
+Wine,Stock Variation,501
+Wine,Export Quantity,10714
+Wine,Domestic supply quantity,28397
+Wine,Waste,223
+Wine,Processing,3238
+Wine,Other uses,1597
+Wine,Food,23342
+Wine,Food supply quantity (kg/capita/yr),3.41
+Wine,Food supply (kcal/capita/day),6
+Wine,Protein supply quantity (g/capita/day),0
+Beer,Production,184505
+Beer,Import Quantity,11498
+Beer,Stock Variation,-32
+Beer,Export Quantity,12501
+Beer,Domestic supply quantity,183469
+Beer,Waste,42
+Beer,Other uses,277
+Beer,Food,183150
+Beer,Food supply quantity (kg/capita/yr),26.75
+Beer,Food supply (kcal/capita/day),33
+Beer,Protein supply quantity (g/capita/day),0.32
+"Beverages, Fermented",Production,32545
+"Beverages, Fermented",Import Quantity,849
+"Beverages, Fermented",Stock Variation,-62
+"Beverages, Fermented",Export Quantity,988
+"Beverages, Fermented",Domestic supply quantity,32345
+"Beverages, Fermented",Waste,1433
+"Beverages, Fermented",Other uses,276
+"Beverages, Fermented",Food,30640
+"Beverages, Fermented",Food supply quantity (kg/capita/yr),4.47
+"Beverages, Fermented",Food supply (kcal/capita/day),5
+"Beverages, Fermented",Protein supply quantity (g/capita/day),0.05
+"Beverages, Fermented",Fat supply quantity (g/capita/day),0
+"Beverages, Alcoholic",Production,25601
+"Beverages, Alcoholic",Import Quantity,3928
+"Beverages, Alcoholic",Stock Variation,27
+"Beverages, Alcoholic",Export Quantity,4137
+"Beverages, Alcoholic",Domestic supply quantity,25418
+"Beverages, Alcoholic",Other uses,4574
+"Beverages, Alcoholic",Food,20844
+"Beverages, Alcoholic",Food supply quantity (kg/capita/yr),3.04
+"Beverages, Alcoholic",Food supply (kcal/capita/day),24
+"Beverages, Alcoholic",Protein supply quantity (g/capita/day),0
+"Alcohol, Non-Food",Production,19316
+"Alcohol, Non-Food",Import Quantity,9260
+"Alcohol, Non-Food",Stock Variation,3616
+"Alcohol, Non-Food",Export Quantity,10996
+"Alcohol, Non-Food",Domestic supply quantity,21195
+"Alcohol, Non-Food",Waste,
+"Alcohol, Non-Food",Other uses,21352
+Bovine Meat,Production,66179
+Bovine Meat,Import Quantity,9365
+Bovine Meat,Stock Variation,24
+Bovine Meat,Export Quantity,10833
+Bovine Meat,Domestic supply quantity,64735
+Bovine Meat,Feed,8
+Bovine Meat,Waste,179
+Bovine Meat,Processing,-24
+Bovine Meat,Other uses,165
+Bovine Meat,Food,64446
+Bovine Meat,Food supply quantity (kg/capita/yr),9.41
+Bovine Meat,Food supply (kcal/capita/day),40
+Bovine Meat,Protein supply quantity (g/capita/day),3.57
+Bovine Meat,Fat supply quantity (g/capita/day),2.7
+Mutton & Goat Meat,Production,13077
+Mutton & Goat Meat,Import Quantity,866
+Mutton & Goat Meat,Stock Variation,0
+Mutton & Goat Meat,Export Quantity,877
+Mutton & Goat Meat,Domestic supply quantity,13067
+Mutton & Goat Meat,Feed,17
+Mutton & Goat Meat,Waste,35
+Mutton & Goat Meat,Other uses,160
+Mutton & Goat Meat,Food,12855
+Mutton & Goat Meat,Food supply quantity (kg/capita/yr),1.88
+Mutton & Goat Meat,Food supply (kcal/capita/day),11
+Mutton & Goat Meat,Protein supply quantity (g/capita/day),0.71
+Mutton & Goat Meat,Fat supply quantity (g/capita/day),0.83
+Pigmeat,Production,107947
+Pigmeat,Import Quantity,14792
+Pigmeat,Stock Variation,-75
+Pigmeat,Export Quantity,15459
+Pigmeat,Domestic supply quantity,107205
+Pigmeat,Waste,304
+Pigmeat,Processing,36
+Pigmeat,Other uses,354
+Pigmeat,Food,106587
+Pigmeat,Food supply quantity (kg/capita/yr),15.56
+Pigmeat,Food supply (kcal/capita/day),120
+Pigmeat,Protein supply quantity (g/capita/day),4.5
+Pigmeat,Fat supply quantity (g/capita/day),11.19
+Poultry Meat,Production,102475
+Poultry Meat,Import Quantity,14589
+Poultry Meat,Stock Variation,210
+Poultry Meat,Export Quantity,15956
+Poultry Meat,Domestic supply quantity,101318
+Poultry Meat,Feed,0
+Poultry Meat,Waste,350
+Poultry Meat,Processing,428
+Poultry Meat,Other uses,1098
+Poultry Meat,Food,99446
+Poultry Meat,Food supply quantity (kg/capita/yr),14.52
+Poultry Meat,Food supply (kcal/capita/day),57
+Poultry Meat,Protein supply quantity (g/capita/day),5
+Poultry Meat,Fat supply quantity (g/capita/day),3.94
+"Meat, Other",Production,6298
+"Meat, Other",Import Quantity,1161
+"Meat, Other",Stock Variation,4
+"Meat, Other",Export Quantity,699
+"Meat, Other",Domestic supply quantity,6764
+"Meat, Other",Feed,50
+"Meat, Other",Waste,14
+"Meat, Other",Processing,14
+"Meat, Other",Other uses,15
+"Meat, Other",Food,6742
+"Meat, Other",Food supply quantity (kg/capita/yr),0.98
+"Meat, Other",Food supply (kcal/capita/day),3
+"Meat, Other",Protein supply quantity (g/capita/day),0.48
+"Meat, Other",Fat supply quantity (g/capita/day),0.14
+"Offals, Edible",Production,18082
+"Offals, Edible",Import Quantity,3893
+"Offals, Edible",Stock Variation,40
+"Offals, Edible",Export Quantity,4770
+"Offals, Edible",Domestic supply quantity,17244
+"Offals, Edible",Feed,1039
+"Offals, Edible",Waste,70
+"Offals, Edible",Processing,0
+"Offals, Edible",Other uses,906
+"Offals, Edible",Food,15255
+"Offals, Edible",Food supply quantity (kg/capita/yr),2.23
+"Offals, Edible",Food supply (kcal/capita/day),7
+"Offals, Edible",Protein supply quantity (g/capita/day),1.09
+"Offals, Edible",Fat supply quantity (g/capita/day),0.21
+"Butter, Ghee",Production,9375
+"Butter, Ghee",Import Quantity,1513
+"Butter, Ghee",Stock Variation,-176
+"Butter, Ghee",Export Quantity,1407
+"Butter, Ghee",Domestic supply quantity,9305
+"Butter, Ghee",Feed,4
+"Butter, Ghee",Waste,66
+"Butter, Ghee",Other uses,41
+"Butter, Ghee",Food,9201
+"Butter, Ghee",Food supply quantity (kg/capita/yr),1.34
+"Butter, Ghee",Food supply (kcal/capita/day),29
+"Butter, Ghee",Protein supply quantity (g/capita/day),0.02
+"Butter, Ghee",Fat supply quantity (g/capita/day),3.24
+Cream,Production,3327
+Cream,Import Quantity,1131
+Cream,Stock Variation,-3
+Cream,Export Quantity,1364
+Cream,Domestic supply quantity,3090
+Cream,Waste,35
+Cream,Processing,0
+Cream,Other uses,108
+Cream,Food,2948
+Cream,Food supply quantity (kg/capita/yr),0.43
+Cream,Food supply (kcal/capita/day),2
+Cream,Protein supply quantity (g/capita/day),0.03
+Cream,Fat supply quantity (g/capita/day),0.23
+"Fats, Animals, Raw",Production,22696
+"Fats, Animals, Raw",Import Quantity,5396
+"Fats, Animals, Raw",Stock Variation,27
+"Fats, Animals, Raw",Export Quantity,5593
+"Fats, Animals, Raw",Domestic supply quantity,22526
+"Fats, Animals, Raw",Feed,1591
+"Fats, Animals, Raw",Waste,40
+"Fats, Animals, Raw",Processing,217
+"Fats, Animals, Raw",Other uses,10531
+"Fats, Animals, Raw",Food,10393
+"Fats, Animals, Raw",Food supply quantity (kg/capita/yr),1.52
+"Fats, Animals, Raw",Food supply (kcal/capita/day),30
+"Fats, Animals, Raw",Protein supply quantity (g/capita/day),0.03
+"Fats, Animals, Raw",Fat supply quantity (g/capita/day),3.28
+"Fish, Body Oil",Production,1116
+"Fish, Body Oil",Import Quantity,890
+"Fish, Body Oil",Stock Variation,-90
+"Fish, Body Oil",Export Quantity,902
+"Fish, Body Oil",Domestic supply quantity,1013
+"Fish, Body Oil",Feed,463
+"Fish, Body Oil",Other uses,468
+"Fish, Body Oil",Food,83
+"Fish, Body Oil",Food supply quantity (kg/capita/yr),0.01
+"Fish, Body Oil",Food supply (kcal/capita/day),0
+"Fish, Body Oil",Protein supply quantity (g/capita/day),0
+"Fish, Body Oil",Fat supply quantity (g/capita/day),0.03
+"Fish, Liver Oil",Production,19
+"Fish, Liver Oil",Import Quantity,23
+"Fish, Liver Oil",Stock Variation,0
+"Fish, Liver Oil",Export Quantity,23
+"Fish, Liver Oil",Domestic supply quantity,19
+"Fish, Liver Oil",Feed,7
+"Fish, Liver Oil",Other uses,5
+"Fish, Liver Oil",Food,6
+"Fish, Liver Oil",Food supply quantity (kg/capita/yr),0
+"Fish, Liver Oil",Food supply (kcal/capita/day),0
+"Fish, Liver Oil",Protein supply quantity (g/capita/day),0
+"Fish, Liver Oil",Fat supply quantity (g/capita/day),0
+Eggs,Production,70398
+Eggs,Import Quantity,2171
+Eggs,Stock Variation,5
+Eggs,Export Quantity,2467
+Eggs,Domestic supply quantity,70106
+Eggs,Feed,74
+Eggs,Seed,4709
+Eggs,Waste,3253
+Eggs,Processing,0
+Eggs,Other uses,778
+Eggs,Food,61305
+Eggs,Food supply quantity (kg/capita/yr),8.95
+Eggs,Food supply (kcal/capita/day),35
+Eggs,Protein supply quantity (g/capita/day),2.72
+Eggs,Fat supply quantity (g/capita/day),2.46
+Milk - Excluding Butter,Production,738106
+Milk - Excluding Butter,Import Quantity,102995
+Milk - Excluding Butter,Stock Variation,365
+Milk - Excluding Butter,Export Quantity,107240
+Milk - Excluding Butter,Domestic supply quantity,734227
+Milk - Excluding Butter,Feed,78635
+Milk - Excluding Butter,Waste,18224
+Milk - Excluding Butter,Processing,25
+Milk - Excluding Butter,Other uses,16382
+Milk - Excluding Butter,Food,621340
+Milk - Excluding Butter,Food supply quantity (kg/capita/yr),90.73
+Milk - Excluding Butter,Food supply (kcal/capita/day),139
+Milk - Excluding Butter,Protein supply quantity (g/capita/day),8.26
+Milk - Excluding Butter,Fat supply quantity (g/capita/day),7.59
+Freshwater Fish,Production,49546
+Freshwater Fish,Import Quantity,5403
+Freshwater Fish,Stock Variation,134
+Freshwater Fish,Export Quantity,5837
+Freshwater Fish,Domestic supply quantity,49245
+Freshwater Fish,Feed,485
+Freshwater Fish,Seed,50
+Freshwater Fish,Other uses,2151
+Freshwater Fish,Food,46560
+Freshwater Fish,Food supply quantity (kg/capita/yr),6.8
+Freshwater Fish,Food supply (kcal/capita/day),13
+Freshwater Fish,Protein supply quantity (g/capita/day),2
+Freshwater Fish,Fat supply quantity (g/capita/day),0.46
+Demersal Fish,Production,20802
+Demersal Fish,Import Quantity,10235
+Demersal Fish,Stock Variation,128
+Demersal Fish,Export Quantity,9369
+Demersal Fish,Domestic supply quantity,21796
+Demersal Fish,Feed,1169
+Demersal Fish,Seed,258
+Demersal Fish,Other uses,542
+Demersal Fish,Food,19827
+Demersal Fish,Food supply quantity (kg/capita/yr),2.9
+Demersal Fish,Food supply (kcal/capita/day),6
+Demersal Fish,Protein supply quantity (g/capita/day),0.87
+Demersal Fish,Fat supply quantity (g/capita/day),0.22
+Pelagic Fish,Production,38220
+Pelagic Fish,Import Quantity,29400
+Pelagic Fish,Stock Variation,-1146
+Pelagic Fish,Export Quantity,23801
+Pelagic Fish,Domestic supply quantity,42673
+Pelagic Fish,Feed,20059
+Pelagic Fish,Seed,6
+Pelagic Fish,Other uses,594
+Pelagic Fish,Food,22014
+Pelagic Fish,Food supply quantity (kg/capita/yr),3.21
+Pelagic Fish,Food supply (kcal/capita/day),8
+Pelagic Fish,Protein supply quantity (g/capita/day),1.17
+Pelagic Fish,Fat supply quantity (g/capita/day),0.37
+"Marine Fish, Other",Production,10855
+"Marine Fish, Other",Import Quantity,4826
+"Marine Fish, Other",Stock Variation,186
+"Marine Fish, Other",Export Quantity,5365
+"Marine Fish, Other",Domestic supply quantity,10502
+"Marine Fish, Other",Feed,1408
+"Marine Fish, Other",Seed,2
+"Marine Fish, Other",Other uses,222
+"Marine Fish, Other",Food,8870
+"Marine Fish, Other",Food supply quantity (kg/capita/yr),1.3
+"Marine Fish, Other",Food supply (kcal/capita/day),3
+"Marine Fish, Other",Protein supply quantity (g/capita/day),0.39
+"Marine Fish, Other",Fat supply quantity (g/capita/day),0.09
+Crustaceans,Production,12083
+Crustaceans,Import Quantity,5762
+Crustaceans,Stock Variation,42
+Crustaceans,Export Quantity,5399
+Crustaceans,Domestic supply quantity,12488
+Crustaceans,Feed,173
+Crustaceans,Seed,120
+Crustaceans,Other uses,29
+Crustaceans,Food,12165
+Crustaceans,Food supply quantity (kg/capita/yr),1.78
+Crustaceans,Food supply (kcal/capita/day),2
+Crustaceans,Protein supply quantity (g/capita/day),0.44
+Crustaceans,Fat supply quantity (g/capita/day),0.02
+Cephalopods,Production,3904
+Cephalopods,Import Quantity,1727
+Cephalopods,Stock Variation,17
+Cephalopods,Export Quantity,1996
+Cephalopods,Domestic supply quantity,3652
+Cephalopods,Feed,152
+Cephalopods,Seed,0
+Cephalopods,Other uses,28
+Cephalopods,Food,3472
+Cephalopods,Food supply quantity (kg/capita/yr),0.51
+Cephalopods,Food supply (kcal/capita/day),1
+Cephalopods,Protein supply quantity (g/capita/day),0.2
+Cephalopods,Fat supply quantity (g/capita/day),0.01
+"Molluscs, Other",Production,17607
+"Molluscs, Other",Import Quantity,3230
+"Molluscs, Other",Stock Variation,16
+"Molluscs, Other",Export Quantity,4053
+"Molluscs, Other",Domestic supply quantity,16800
+"Molluscs, Other",Feed,18
+"Molluscs, Other",Seed,30
+"Molluscs, Other",Other uses,24
+"Molluscs, Other",Food,16729
+"Molluscs, Other",Food supply quantity (kg/capita/yr),2.44
+"Molluscs, Other",Food supply (kcal/capita/day),1
+"Molluscs, Other",Protein supply quantity (g/capita/day),0.17
+"Molluscs, Other",Fat supply quantity (g/capita/day),0.02
+"Meat, Aquatic Mammals",Production,0
+"Meat, Aquatic Mammals",Export Quantity,0
+"Meat, Aquatic Mammals",Domestic supply quantity,0
+"Meat, Aquatic Mammals",Other uses,0
+"Meat, Aquatic Mammals",Food,0
+"Meat, Aquatic Mammals",Food supply quantity (kg/capita/yr),0
+"Meat, Aquatic Mammals",Food supply (kcal/capita/day),0
+"Meat, Aquatic Mammals",Protein supply quantity (g/capita/day),0
+"Meat, Aquatic Mammals",Fat supply quantity (g/capita/day),0
+"Aquatic Animals, Others",Production,1348
+"Aquatic Animals, Others",Import Quantity,287
+"Aquatic Animals, Others",Stock Variation,0
+"Aquatic Animals, Others",Export Quantity,160
+"Aquatic Animals, Others",Domestic supply quantity,1476
+"Aquatic Animals, Others",Seed,0
+"Aquatic Animals, Others",Other uses,127
+"Aquatic Animals, Others",Food,1348
+"Aquatic Animals, Others",Food supply quantity (kg/capita/yr),0.2
+"Aquatic Animals, Others",Food supply (kcal/capita/day),0
+"Aquatic Animals, Others",Protein supply quantity (g/capita/day),0.02
+"Aquatic Animals, Others",Fat supply quantity (g/capita/day),0
+Aquatic Plants,Production,21795
+Aquatic Plants,Import Quantity,416
+Aquatic Plants,Stock Variation,0
+Aquatic Plants,Export Quantity,447
+Aquatic Plants,Domestic supply quantity,21764
+Aquatic Plants,Feed,159
+Aquatic Plants,Other uses,8671
+Aquatic Plants,Food,12934
+Aquatic Plants,Food supply quantity (kg/capita/yr),1.89
+Aquatic Plants,Food supply (kcal/capita/day),2
+Aquatic Plants,Protein supply quantity (g/capita/day),0.14
+Aquatic Plants,Fat supply quantity (g/capita/day),0.01
+Infant food,Production,
+Infant food,Import Quantity,902
+Infant food,Stock Variation,-1
+Infant food,Export Quantity,789
+Infant food,Domestic supply quantity,112
+Infant food,Waste,1
+Infant food,Other uses,0
+Infant food,Food,666
+Infant food,Food supply quantity (kg/capita/yr),0.1
+Infant food,Food supply (kcal/capita/day),1
+Infant food,Protein supply quantity (g/capita/day),0.04
+Infant food,Fat supply quantity (g/capita/day),0.01
+Miscellaneous,Food supply (kcal/capita/day),1
+Miscellaneous,Protein supply quantity (g/capita/day),0.04
+Miscellaneous,Fat supply quantity (g/capita/day),0.02
+Grand Total,Food supply (kcal/capita/day),2870
+Grand Total,Protein supply quantity (g/capita/day),80.49
+Grand Total,Fat supply quantity (g/capita/day),82.56
+Vegetal Products,Food supply (kcal/capita/day),2362
+Vegetal Products,Protein supply quantity (g/capita/day),48.67
+Vegetal Products,Fat supply quantity (g/capita/day),45.53
+Animal Products,Food supply (kcal/capita/day),508
+Animal Products,Protein supply quantity (g/capita/day),31.82
+Animal Products,Fat supply quantity (g/capita/day),37.03
+Cereals - Excluding Beer,Production,2341981
+Cereals - Excluding Beer,Import Quantity,371750
+Cereals - Excluding Beer,Stock Variation,-21877
+Cereals - Excluding Beer,Export Quantity,384712
+Cereals - Excluding Beer,Domestic supply quantity,2307110
+Cereals - Excluding Beer,Feed,816104
+Cereals - Excluding Beer,Seed,66441
+Cereals - Excluding Beer,Waste,101061
+Cereals - Excluding Beer,Processing,89441
+Cereals - Excluding Beer,Other uses,226914
+Cereals - Excluding Beer,Food,1007765
+Cereals - Excluding Beer,Food supply quantity (kg/capita/yr),147.17
+Cereals - Excluding Beer,Food supply (kcal/capita/day),1296
+Cereals - Excluding Beer,Protein supply quantity (g/capita/day),31.92
+Cereals - Excluding Beer,Fat supply quantity (g/capita/day),5.88
+Starchy Roots,Production,796696
+Starchy Roots,Import Quantity,58437
+Starchy Roots,Stock Variation,-5858
+Starchy Roots,Export Quantity,56229
+Starchy Roots,Domestic supply quantity,793044
+Starchy Roots,Feed,176134
+Starchy Roots,Seed,35520
+Starchy Roots,Waste,78436
+Starchy Roots,Processing,14765
+Starchy Roots,Other uses,53585
+Starchy Roots,Food,434756
+Starchy Roots,Food supply quantity (kg/capita/yr),63.49
+Starchy Roots,Food supply (kcal/capita/day),141
+Starchy Roots,Protein supply quantity (g/capita/day),2.27
+Starchy Roots,Fat supply quantity (g/capita/day),0.26
+Sugar Crops,Production,2083717
+Sugar Crops,Import Quantity,1104
+Sugar Crops,Stock Variation,-219
+Sugar Crops,Export Quantity,1383
+Sugar Crops,Domestic supply quantity,2083221
+Sugar Crops,Feed,50930
+Sugar Crops,Seed,28251
+Sugar Crops,Waste,148052
+Sugar Crops,Processing,1518351
+Sugar Crops,Other uses,306360
+Sugar Crops,Food,31309
+Sugar Crops,Food supply quantity (kg/capita/yr),4.57
+Sugar Crops,Food supply (kcal/capita/day),4
+Sugar Crops,Protein supply quantity (g/capita/day),0.02
+Sugar Crops,Fat supply quantity (g/capita/day),0.02
+Sugar & Sweeteners,Production,204530
+Sugar & Sweeteners,Import Quantity,70936
+Sugar & Sweeteners,Stock Variation,-8327
+Sugar & Sweeteners,Export Quantity,73326
+Sugar & Sweeteners,Domestic supply quantity,193798
+Sugar & Sweeteners,Feed,429
+Sugar & Sweeteners,Seed,0
+Sugar & Sweeteners,Waste,259
+Sugar & Sweeteners,Processing,7349
+Sugar & Sweeteners,Other uses,20788
+Sugar & Sweeteners,Food,165142
+Sugar & Sweeteners,Food supply quantity (kg/capita/yr),24.12
+Sugar & Sweeteners,Food supply (kcal/capita/day),230
+Sugar & Sweeteners,Protein supply quantity (g/capita/day),0.04
+Sugar & Sweeteners,Fat supply quantity (g/capita/day),0.01
+Pulses,Production,68111
+Pulses,Import Quantity,12091
+Pulses,Stock Variation,1471
+Pulses,Export Quantity,13471
+Pulses,Domestic supply quantity,68200
+Pulses,Feed,12930
+Pulses,Seed,3965
+Pulses,Waste,3460
+Pulses,Processing,0
+Pulses,Other uses,709
+Pulses,Food,47156
+Pulses,Food supply quantity (kg/capita/yr),6.89
+Pulses,Food supply (kcal/capita/day),65
+Pulses,Protein supply quantity (g/capita/day),4.05
+Pulses,Fat supply quantity (g/capita/day),0.42
+Treenuts,Production,15322
+Treenuts,Import Quantity,6916
+Treenuts,Stock Variation,180
+Treenuts,Export Quantity,7232
+Treenuts,Domestic supply quantity,15186
+Treenuts,Seed,0
+Treenuts,Waste,457
+Treenuts,Processing,0
+Treenuts,Other uses,68
+Treenuts,Food,15060
+Treenuts,Food supply quantity (kg/capita/yr),2.2
+Treenuts,Food supply (kcal/capita/day),15
+Treenuts,Protein supply quantity (g/capita/day),0.39
+Treenuts,Fat supply quantity (g/capita/day),1.14
+Oilcrops,Production,549152
+Oilcrops,Import Quantity,126432
+Oilcrops,Stock Variation,-8673
+Oilcrops,Export Quantity,127577
+Oilcrops,Domestic supply quantity,539307
+Oilcrops,Feed,34661
+Oilcrops,Seed,11068
+Oilcrops,Waste,12964
+Oilcrops,Processing,421868
+Oilcrops,Other uses,13458
+Oilcrops,Food,47973
+Oilcrops,Food supply quantity (kg/capita/yr),7.01
+Oilcrops,Food supply (kcal/capita/day),57
+Oilcrops,Protein supply quantity (g/capita/day),2.72
+Oilcrops,Fat supply quantity (g/capita/day),4.18
+Vegetable Oils,Production,158746
+Vegetable Oils,Import Quantity,79718
+Vegetable Oils,Stock Variation,-1455
+Vegetable Oils,Export Quantity,82933
+Vegetable Oils,Domestic supply quantity,154062
+Vegetable Oils,Feed,773
+Vegetable Oils,Waste,567
+Vegetable Oils,Processing,438
+Vegetable Oils,Other uses,74075
+Vegetable Oils,Food,79507
+Vegetable Oils,Food supply quantity (kg/capita/yr),11.61
+Vegetable Oils,Food supply (kcal/capita/day),278
+Vegetable Oils,Protein supply quantity (g/capita/day),0.03
+Vegetable Oils,Fat supply quantity (g/capita/day),31.42
+Vegetables,Production,1082283
+Vegetables,Import Quantity,65496
+Vegetables,Stock Variation,244
+Vegetables,Export Quantity,72122
+Vegetables,Domestic supply quantity,1075893
+Vegetables,Feed,52604
+Vegetables,Seed,113
+Vegetables,Waste,92399
+Vegetables,Processing,605
+Vegetables,Other uses,536
+Vegetables,Food,930001
+Vegetables,Food supply quantity (kg/capita/yr),135.81
+Vegetables,Food supply (kcal/capita/day),93
+Vegetables,Protein supply quantity (g/capita/day),4.77
+Vegetables,Fat supply quantity (g/capita/day),0.79
+Fruits - Excluding Wine,Production,631787
+Fruits - Excluding Wine,Import Quantity,123182
+Fruits - Excluding Wine,Stock Variation,1836
+Fruits - Excluding Wine,Export Quantity,121264
+Fruits - Excluding Wine,Domestic supply quantity,635525
+Fruits - Excluding Wine,Feed,5497
+Fruits - Excluding Wine,Waste,60083
+Fruits - Excluding Wine,Processing,55251
+Fruits - Excluding Wine,Other uses,1881
+Fruits - Excluding Wine,Food,513761
+Fruits - Excluding Wine,Food supply quantity (kg/capita/yr),75.03
+Fruits - Excluding Wine,Food supply (kcal/capita/day),94
+Fruits - Excluding Wine,Protein supply quantity (g/capita/day),1.1
+Fruits - Excluding Wine,Fat supply quantity (g/capita/day),0.6
+Stimulants,Production,18412
+Stimulants,Import Quantity,20138
+Stimulants,Stock Variation,561
+Stimulants,Export Quantity,20641
+Stimulants,Domestic supply quantity,18456
+Stimulants,Feed,12
+Stimulants,Waste,336
+Stimulants,Processing,45
+Stimulants,Other uses,390
+Stimulants,Food,17843
+Stimulants,Food supply quantity (kg/capita/yr),2.61
+Stimulants,Food supply (kcal/capita/day),7
+Stimulants,Protein supply quantity (g/capita/day),0.52
+Stimulants,Fat supply quantity (g/capita/day),0.43
+Spices,Production,9317
+Spices,Import Quantity,2259
+Spices,Stock Variation,-25
+Spices,Export Quantity,2296
+Spices,Domestic supply quantity,9250
+Spices,Feed,0
+Spices,Waste,232
+Spices,Other uses,328
+Spices,Food,8718
+Spices,Food supply quantity (kg/capita/yr),1.27
+Spices,Food supply (kcal/capita/day),11
+Spices,Protein supply quantity (g/capita/day),0.39
+Spices,Fat supply quantity (g/capita/day),0.35
+Alcoholic Beverages,Production,290351
+Alcoholic Beverages,Import Quantity,35748
+Alcoholic Beverages,Stock Variation,4050
+Alcoholic Beverages,Export Quantity,39324
+Alcoholic Beverages,Domestic supply quantity,290815
+Alcoholic Beverages,Waste,1699
+Alcoholic Beverages,Processing,3239
+Alcoholic Beverages,Other uses,28070
+Alcoholic Beverages,Food,257967
+Alcoholic Beverages,Food supply quantity (kg/capita/yr),37.67
+Alcoholic Beverages,Food supply (kcal/capita/day),69
+Alcoholic Beverages,Protein supply quantity (g/capita/day),0.37
+Alcoholic Beverages,Fat supply quantity (g/capita/day),0
+Meat,Production,295984
+Meat,Import Quantity,40760
+Meat,Stock Variation,163
+Meat,Export Quantity,43816
+Meat,Domestic supply quantity,293098
+Meat,Feed,74
+Meat,Waste,878
+Meat,Processing,454
+Meat,Other uses,1791
+Meat,Food,290078
+Meat,Food supply quantity (kg/capita/yr),42.36
+Meat,Food supply (kcal/capita/day),231
+Meat,Protein supply quantity (g/capita/day),14.26
+Meat,Fat supply quantity (g/capita/day),18.8
+Offals,Production,18078
+Offals,Import Quantity,3893
+Offals,Stock Variation,40
+Offals,Export Quantity,4770
+Offals,Domestic supply quantity,17241
+Offals,Feed,1041
+Offals,Waste,70
+Offals,Processing,0
+Offals,Other uses,905
+Offals,Food,15250
+Offals,Food supply quantity (kg/capita/yr),2.23
+Offals,Food supply (kcal/capita/day),7
+Offals,Protein supply quantity (g/capita/day),1.09
+Offals,Fat supply quantity (g/capita/day),0.21
+Animal fats,Production,36529
+Animal fats,Import Quantity,8940
+Animal fats,Stock Variation,-243
+Animal fats,Export Quantity,9277
+Animal fats,Domestic supply quantity,35947
+Animal fats,Feed,2063
+Animal fats,Waste,142
+Animal fats,Processing,217
+Animal fats,Other uses,11146
+Animal fats,Food,22622
+Animal fats,Food supply quantity (kg/capita/yr),3.3
+Animal fats,Food supply (kcal/capita/day),61
+Animal fats,Protein supply quantity (g/capita/day),0.08
+Animal fats,Fat supply quantity (g/capita/day),6.78
+Eggs,Production,70399
+Eggs,Import Quantity,2164
+Eggs,Stock Variation,5
+Eggs,Export Quantity,2464
+Eggs,Domestic supply quantity,70106
+Eggs,Feed,73
+Eggs,Seed,4709
+Eggs,Waste,3252
+Eggs,Processing,0
+Eggs,Other uses,777
+Eggs,Food,61304
+Eggs,Food supply quantity (kg/capita/yr),8.95
+Eggs,Food supply (kcal/capita/day),35
+Eggs,Protein supply quantity (g/capita/day),2.72
+Eggs,Fat supply quantity (g/capita/day),2.46
+Milk - Excluding Butter,Production,738107
+Milk - Excluding Butter,Import Quantity,102994
+Milk - Excluding Butter,Stock Variation,363
+Milk - Excluding Butter,Export Quantity,107240
+Milk - Excluding Butter,Domestic supply quantity,734233
+Milk - Excluding Butter,Feed,78637
+Milk - Excluding Butter,Waste,18221
+Milk - Excluding Butter,Processing,26
+Milk - Excluding Butter,Other uses,16379
+Milk - Excluding Butter,Food,621333
+Milk - Excluding Butter,Food supply quantity (kg/capita/yr),90.73
+Milk - Excluding Butter,Food supply (kcal/capita/day),139
+Milk - Excluding Butter,Protein supply quantity (g/capita/day),8.26
+Milk - Excluding Butter,Fat supply quantity (g/capita/day),7.59
+"Fish, Seafood",Production,153001
+"Fish, Seafood",Import Quantity,60562
+"Fish, Seafood",Stock Variation,-623
+"Fish, Seafood",Export Quantity,55802
+"Fish, Seafood",Domestic supply quantity,157128
+"Fish, Seafood",Feed,23463
+"Fish, Seafood",Seed,466
+"Fish, Seafood",Other uses,3588
+"Fish, Seafood",Food,129609
+"Fish, Seafood",Food supply quantity (kg/capita/yr),18.93
+"Fish, Seafood",Food supply (kcal/capita/day),34
+"Fish, Seafood",Protein supply quantity (g/capita/day),5.23
+"Fish, Seafood",Fat supply quantity (g/capita/day),1.19
+"Aquatic Products, Other",Production,23144
+"Aquatic Products, Other",Import Quantity,700
+"Aquatic Products, Other",Stock Variation,0
+"Aquatic Products, Other",Export Quantity,602
+"Aquatic Products, Other",Domestic supply quantity,23240
+"Aquatic Products, Other",Feed,159
+"Aquatic Products, Other",Seed,0
+"Aquatic Products, Other",Other uses,8800
+"Aquatic Products, Other",Food,14278
+"Aquatic Products, Other",Food supply quantity (kg/capita/yr),2.08
+"Aquatic Products, Other",Food supply (kcal/capita/day),2
+"Aquatic Products, Other",Protein supply quantity (g/capita/day),0.16
+"Aquatic Products, Other",Fat supply quantity (g/capita/day),0.01
+Miscellaneous,Production,
+Miscellaneous,Import Quantity,893
+Miscellaneous,Stock Variation,-1
+Miscellaneous,Export Quantity,787
+Miscellaneous,Domestic supply quantity,109
+Miscellaneous,Waste,1
+Miscellaneous,Other uses,0
+Miscellaneous,Food,662
+Miscellaneous,Food supply (kcal/capita/day),2
+Miscellaneous,Protein supply quantity (g/capita/day),0.08
+Miscellaneous,Fat supply quantity (g/capita/day),0.02
